@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Home / About Asbily -->
+  <url>
+    <loc>https://about.asbily.com/</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.asbily.com/asbily/image/logo/asbilyplatforms.png</image:loc>
+      <image:title>Asbily Platforms Logo</image:title>
+      <image:caption>Official logo of Asbily Platforms, technology and digital services company.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.asbily.com/asbily/image/founder/arifbillah.png</image:loc>
+      <image:title>Arif Billah — Founder and CEO of Asbily</image:title>
+      <image:caption>Arif Billah, Founder and CEO of Asbily Platforms.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Company Overview -->
+  <url>
+    <loc>https://about.asbily.com/company/</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.asbily.com/asbily/image/logo/asbilyplatforms.png</image:loc>
+      <image:title>Asbily Platforms Official Logo</image:title>
+      <image:caption>Asbily Platforms Company Information and Operations</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Founder Profile — Arif Billah -->
+  <url>
+    <loc>https://about.asbily.com/company/founder/</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.asbily.com/asbily/image/founder/arifbillah.png</image:loc>
+      <image:title>Arif Billah — Founder and CEO of Asbily</image:title>
+      <image:caption>Official portrait of Arif Billah, Founder &amp; CEO</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.asbily.com/asbily/image/logo/asbilyplatforms.png</image:loc>
+      <image:title>Asbily Platforms Brand Logo</image:title>
+      <image:caption>Asbily Logo</image:caption>
+    </image:image>
+  </url>
+
+</urlset>

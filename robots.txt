@@ -1,0 +1,35 @@
+# Robots.txt for https://about.asbily.com/
+# Asbily Platforms — Technology & Digital Services
+# Founder & CEO: Arif Billah
+
+User-agent: *
+Allow: /
+Allow: /company/
+Allow: /company/founder/
+Allow: /style.css
+Allow: /script.js
+Allow: /firebase.js
+Allow: /sitemap.xml
+Disallow: /package.json
+Disallow: /metadata.json
+Disallow: /bun.lock
+Disallow: /*.json$
+Disallow: /*.lock$
+
+# Googlebot specific rules
+User-agent: Googlebot
+Allow: /
+
+# Googlebot-Image
+User-agent: Googlebot-Image
+Allow: /
+
+# Bingbot
+User-agent: Bingbot
+Allow: /
+
+# Host specification
+Host: https://about.asbily.com
+
+# XML Sitemaps
+Sitemap: https://about.asbily.com/sitemap.xml
